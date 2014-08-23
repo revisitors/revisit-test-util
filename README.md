@@ -10,4 +10,4 @@ python test.py http://hiiamchris.com:4200 ~/Desktop/input.jpg ~/Desktop/out.gif
 ```
 
 
-make you you have requests installed through pip. do ``` pip install requests ``` to install it. 
+make sure you have requests installed through pip. do ``` pip install requests ``` to install it. 
